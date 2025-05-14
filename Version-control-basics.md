@@ -1,5 +1,5 @@
 Definition of Version Control
-Version control is a system that is used for tracking and managing changes to files over time.
+Version control is a system that is used for tracking and managing changes to files over time. 
 
 Key Features
 Collabortion: Which allows for multiple people to work on the same project at the same time without any issues.
