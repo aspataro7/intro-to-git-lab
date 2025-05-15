@@ -1,4 +1,4 @@
-#﻿# Intro-to-git-lab
+﻿# Intro-to-git-lab
 This repository is for the version control lab assignment
 
 My name is Adam Spataro and i do not currently have a favourite programming language as i haven't had to program very much if at all, but i am interested in learning python. 
