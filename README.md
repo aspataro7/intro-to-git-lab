@@ -1,4 +1,4 @@
-﻿# Intro-to-git-lab
+#﻿# Intro-to-git-lab
 This repository is for the version control lab assignment
 
 My name is Adam Spataro and i do not currently have a favourite programming language as i haven't had to program very much if at all, but i am interested in learning python. 
@@ -31,7 +31,7 @@ To achieve this for the lab we created a new branch using git checkout -b. On gi
 *Make sure you go to the pull request page and click on the "Merge pull request" green button.
 
 6. To Add a Reviewer:
-There should be a catogory on the right-hand side showing Reviewers. Click on the gear icon and search for the person you want to add.
+There should be a category on the right-hand side showing Reviewers. Click on the gear icon and search for the person you want to add.
 
 ## Commands Used for this Lab
 
